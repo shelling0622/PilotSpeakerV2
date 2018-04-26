@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "653294103227",
+    "firebase_url": "https://pilotspeakerv2.firebaseio.com",
+    "project_id": "pilotspeakerv2",
+    "storage_bucket": "pilotspeakerv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653294103227:android:30c4b057f044686b",
+        "android_client_info": {
+          "package_name": "lbproject.hcilab.yonsei.pilotspeakerv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653294103227-p6ia2clfdcfimshuguujqr2sjkjlkrdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lbproject.hcilab.yonsei.pilotspeakerv2",
+            "certificate_hash": "4e400211586352627e5cabbc3a19d1f73b59c76a"
+          }
+        },
+        {
+          "client_id": "653294103227-kmbl335fbgv5nku2isotkbdj7ot88r8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0qeIlESjfzccISbNc4rE-DmTZWTBk16o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653294103227-kmbl335fbgv5nku2isotkbdj7ot88r8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

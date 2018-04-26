@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="barTitle">19dp</dimen>
+
+    <dimen name="bigText">30dp</dimen>
+    <dimen name="mediumText">22dp</dimen>
+    <dimen name="smallText">17dp</dimen>
+
+    <dimen name="bigMargin">100dp</dimen>
+    <dimen name="mediumMargin">50dp</dimen>
+    <dimen name="smallMargin">20dp</dimen>
+
+    <dimen name="bigPadding">30dp</dimen>
+    <dimen name="mediumPadding">20dp</dimen>
+    <dimen name="smallPadding">10dp</dimen>
+
+    <dimen name="veryBigSize">200dp</dimen>
+    <dimen name="bigSize">150dp</dimen>
+    <dimen name="mediumSize">100dp</dimen>
+    <dimen name="smallSize">70dp</dimen>
+
+</resources>
